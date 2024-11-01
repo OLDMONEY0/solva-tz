@@ -1,0 +1,29 @@
+/* src/pages/ProfilePage.css */
+
+.page-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #ffffff;
+  }
+  
+  .profile-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  h2 {
+    margin-bottom: 1.5rem;
+  }
+  
+  .profile-info {
+    font-size: 1.1rem;
+    color: #333;
+  }
+  
